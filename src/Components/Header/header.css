@@ -1,0 +1,38 @@
+#header {
+    height:0px;
+}
+
+ul {
+    margin:0px;
+    color:white;
+    text-decoration: none;
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+    font-family: 'Indie Flower', cursive;
+    font-weight:bold;
+}
+
+li {
+    margin: 20px;
+    text-align: center;
+}
+
+#images {
+    background-image: url("../../Assets/nav-cloud.jpeg");
+    width:90px;
+    height:auto;
+    z-index: 1;
+    background-size: cover;
+    background-position:center;
+    margin: 15px 5px;
+}
+
+button {
+    background-color: none;
+    background: transparent;
+    border: none;
+    height:30px;
+}
+
