@@ -14,7 +14,11 @@ function Home() {
     const history = useHistory();
 
     const pageRoute2 = () => {
-        history.push("/bestplaces");
+        history.push("/places");
+      };
+
+    const pageRoute5 = () => {
+        history.push("/lists");
       };
 
     return (
@@ -44,7 +48,7 @@ function Home() {
                     <h2>Are you prepared for your trip?</h2>
 
                     <div id="backgroundSection3">
-                        <p>Checkout these customized packing lists! &#8608;</p>
+                        <p onClick={pageRoute5}>Checkout these customized packing lists! &#8608;</p>
                     </div>
                     
                     
