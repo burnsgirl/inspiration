@@ -8,7 +8,9 @@ function Home() {
 
 
     return (
-        <div></div>
+        <section id="callToAction">
+            <h1>Explore</h1>
+        </section>
     )
 
 }
