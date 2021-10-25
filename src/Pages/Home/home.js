@@ -1,15 +1,18 @@
 import { React } from "react";
 import "./home.css";
-import footprints from "../../Assets/footprint2.png";
 import rightFoot from "../../Assets/rightFoot.png";
 import leftFoot from "../../Assets/leftFoot.png";
-
+import { useHistory } from "react-router-dom";
 
 
 
 function Home() {
 
+    const history = useHistory();
 
+    const pageRoute2 = () => {
+        history.push("/bestplaces");
+      };
 
     return (
         <div>
@@ -19,7 +22,7 @@ function Home() {
             </section>
 
             <div id="homepage">
-                <section className="sections" id="section2">
+                <section className="sections" id="section2" onClick={pageRoute2}>
                     <h2>Checkout the best places to go in the U.S.</h2>
                     <div id="footprints">
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
@@ -33,6 +36,12 @@ function Home() {
 
                 <section className="sections" id="section3">
                     <h2>Are you prepared for your trip?</h2>
+
+                    <div id="backgroundSection3">
+                        <p>Checkout these customized packing list! &#8608;</p>
+                    </div>
+                    
+                    
                 </section>
             </div>
         </div>
