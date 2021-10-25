@@ -3,6 +3,9 @@ import "./home.css";
 import rightFoot from "../../Assets/rightFoot.png";
 import leftFoot from "../../Assets/leftFoot.png";
 import { useHistory } from "react-router-dom";
+import wind from "../../Assets/wind.png";
+import cloud1 from "../../Assets/cloud1.png";
+import cloud2 from "../../Assets/cloud2.png";
 
 
 
@@ -18,6 +21,9 @@ function Home() {
         <div>
             <section id="callToAction">
                 <h1>Explore</h1>
+                {/* <img id="wind" src={wind} alt="wind" />
+                <img id="cloud1" src={cloud1} alt="cloud" />
+                <img id="cloud2" src={cloud2} alt="cloud" /> */}
                 <p>Where will your next adventure take you? &#8609;</p>
             </section>
 

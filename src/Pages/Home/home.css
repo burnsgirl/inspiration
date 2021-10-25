@@ -31,6 +31,27 @@
     background-color: #110f10;
 }
 
+/* #wind {
+    height: 100px;
+    position: relative;
+    top: 424px;
+    left: -63px;
+}
+
+#cloud1 {
+    height:100px;
+    position: relative;
+    top: 14px;
+    left: 69px;
+}
+
+#cloud2 {
+    height:120px;
+    position: relative;
+    top: 123px;
+    left: 151px;
+} */
+
 .sections {
     height: 400px;
     color:white;
