@@ -1,5 +1,8 @@
 import { React } from "react";
 import "./home.css";
+import footprints from "../../Assets/footprint2.png";
+import rightFoot from "../../Assets/rightFoot.png";
+import leftFoot from "../../Assets/leftFoot.png";
 
 
 
@@ -15,14 +18,25 @@ function Home() {
                 <p>Where will your next adventure take you? &#8609;</p>
             </section>
 
-            <section className="sections" id="section2">
-                <h2>Checkout the best places to go in the U.S.</h2>
+            <div id="homepage">
+                <section className="sections" id="section2">
+                    <h2>Checkout the best places to go in the U.S.</h2>
+                    <div id="footprints">
                 
-            </section>
+                        <img className="printR" src={leftFoot} alt="leftFoot"/>
+                        <img className="printL" src={rightFoot} alt="rightFoot"/>
+                        <img className="printR" src={leftFoot} alt="leftFoot"/>
+                        <img className="printL" src={rightFoot} alt="rightFoot"/>
+                        <img className="printR" src={leftFoot} alt="leftFoot"/>
+                        <img className="printL" src={rightFoot} alt="rightFoot"/>
 
-            <section className="sections" id="section3">
-                <h2>Are you prepared for your trip?</h2>
-            </section>
+                    </div>
+                </section>
+
+                <section className="sections" id="section3">
+                    <h2>Are you prepared for your trip?</h2>
+                </section>
+            </div>
         </div>
     )
 
