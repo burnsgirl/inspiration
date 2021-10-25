@@ -22,14 +22,12 @@ function Home() {
                 <section className="sections" id="section2">
                     <h2>Checkout the best places to go in the U.S.</h2>
                     <div id="footprints">
-                
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
                         <img className="printL prints" src={rightFoot} alt="rightFoot"/>
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
                         <img className="printL prints" src={rightFoot} alt="rightFoot"/>
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
                         <img className="printL prints" src={rightFoot} alt="rightFoot"/>
-
                     </div>
                 </section>
 
