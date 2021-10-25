@@ -7,7 +7,15 @@ function Places() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+            <section id="coverPlaces">
+                <h1>Explore These Places!</h1>
+            </section>
+
+            <section id="locationCards">
+                
+            </section>
+        </div>
     )
 }
 
