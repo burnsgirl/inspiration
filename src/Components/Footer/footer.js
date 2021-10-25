@@ -8,7 +8,9 @@ function Footer() {
 
 
     return (
-        <div></div>
+        <div id="footer">
+            <p>© The Developer Group</p>
+        </div>
     )
 
 }

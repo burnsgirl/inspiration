@@ -44,7 +44,7 @@ function Home() {
                     <h2>Are you prepared for your trip?</h2>
 
                     <div id="backgroundSection3">
-                        <p>Checkout these customized packing list! &#8608;</p>
+                        <p>Checkout these customized packing lists! &#8608;</p>
                     </div>
                     
                     
