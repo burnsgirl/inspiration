@@ -22,3 +22,31 @@
     align-self: end;
     font-size:25px;
 }
+
+.sections {
+    height: 400px;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    display:flex;
+    flex-direction: row;
+}
+
+#section2 {
+    background-image: url("../../Assets/road.jpeg");
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#section2 h2 {
+    margin:0px;
+    font-size:40px;
+}
+
+#section3 {
+    background-image: url("../../Assets/backpack.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
