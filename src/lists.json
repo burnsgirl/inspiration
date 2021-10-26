@@ -1,38 +1,38 @@
 [
     {
-        "id":0,
+        "id":"hiking",
         "type":"Hiking",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262103/hiking_if0eer.jpg",
-        "alt":""
+        "alt":"Person walking on fallen tree."
     },
     {
-        "id":1,
+        "id":"beach",
         "type":"Beach",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262138/beach_ksoxcz.jpg",
-        "alt":""
+        "alt":"Sunglasses in the sand."
     },
     {
-        "id":2,
+        "id":"mountains",
         "type":"Mountains",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262193/mountains_gccxga.jpg",
-        "alt":""
+        "alt":"Mountains in the fog."
     },
     {
-        "id":3,
+        "id":"camping",
         "type":"Camping",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262025/camping_lagxew.jpg",
-        "alt":""
+        "alt":"Inside a tent looking at the woods."
     },
     {
-        "id":4,
+        "id":"international",
         "type":"International",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261944/france_e5mito.jpg",
-        "alt":""
+        "alt":"Bridge in France."
     },
     {
-        "id":5,
+        "id":"desert",
         "type":"Desert",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261988/desert_sauv5h.jpg",
-        "alt":""
+        "alt":"A tree in the barren desert."
     }
 ]

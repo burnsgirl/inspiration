@@ -17,7 +17,7 @@ function Lists() {
                 <div id="listBtns">
 
                     <div class="dropdown">
-                        <button class="dropbtn">Hiking</button>
+                        <a class="dropbtn" href="#hiking">Hiking</a>
                         <div class="dropdown-content">
                             <a href="#">Spring/Summer</a>
                             <a href="#">Fall/Winter</a>
@@ -25,7 +25,7 @@ function Lists() {
                     </div>
 
                     <div class="dropdown">
-                        <button class="dropbtn">Beach</button>
+                        <a class="dropbtn" href="#beach">Beach</a>
                         <div class="dropdown-content">
                             <a href="#">Spring/Summer</a>
                             <a href="#">Fall/Winter</a>
@@ -33,16 +33,7 @@ function Lists() {
                     </div>
 
                     <div class="dropdown">
-                        <button class="dropbtn">Mountains</button>
-                        <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
-                            <a href="#">Link 3</a>
-                        </div>
-                    </div>
-
-                    <div class="dropdown">
-                        <button class="dropbtn">Camping</button>
+                        <a class="dropbtn" href="#mountains">Mountains</a>
                         <div class="dropdown-content">
                             <a href="#">Spring/Summer</a>
                             <a href="#">Fall/Winter</a>
@@ -51,7 +42,16 @@ function Lists() {
                     </div>
 
                     <div class="dropdown">
-                        <button class="dropbtn">International</button>
+                        <a class="dropbtn" href="#camping">Camping</a>
+                        <div class="dropdown-content">
+                            <a href="#">Spring/Summer</a>
+                            <a href="#">Fall/Winter</a>
+                            <a href="#">Link 3</a>
+                        </div>
+                    </div>
+
+                    <div class="dropdown">
+                        <a class="dropbtn" href="#international">International</a>
                         <div class="dropdown-content">
                             <a href="#">Spring</a>
                             <a href="#">Summer</a>
@@ -61,7 +61,7 @@ function Lists() {
                     </div>
 
                     <div class="dropdown">
-                        <button class="dropbtn">Desert</button>
+                        <a class="dropbtn" href="#desert">Desert</a>
                         <div class="dropdown-content">
                             <a href="#">Spring</a>
                             <a href="#">Summer</a>
@@ -79,7 +79,7 @@ function Lists() {
                         return (
 
                     
-                    <div className="listCard">
+                    <div className="listCard" id={props.id}>
                         <img className="imageLists" src={props.image} alt={props.alt} />
                         <h1 className="nameOfList">{props.type}</h1>
                         
