@@ -16,16 +16,20 @@
 }
 
 #locationCards {
-    display:flex;
-    flex-direction: row;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+    
 }
 
 .card {
+    
     height:400px;
     width:400px;
     margin: 20px;
-    display:flex;
-    flex-direction: row;
+    background-color:turquoise;
 }
 
 #place {

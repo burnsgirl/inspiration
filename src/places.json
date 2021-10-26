@@ -4,7 +4,7 @@
         "id":0,
         "placename": "Williamstown, MA",
         "alt": "",
-        "image":"./williamstown.heic"
+        "image":"../Assets/Places/williamstown.jpeg"
     },
     {
         "id":1,
