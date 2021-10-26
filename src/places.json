@@ -3,49 +3,49 @@
     {
         "id":0,
         "placename": "Williamstown, MA",
-        "alt": "",
-        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635254987/williamstown_qweb1x.jpg"
+        "alt": "A foggy wooded road.",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635256213/IMG_3161_db2dyg.jpg"
     },
     {
         "id":1,
-        "placename": "Freeport, ME",
-        "alt": "",
-        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255270/IMG_3077_ppnstw.jpg"
+        "placename": "Portland, ME",
+        "alt": "A lighthouse on the seashore.",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635256216/IMG_3102_ggdrp0.jpg"
     },
     {
         "id":2,
         "placename": "Destin, FL",
-        "alt": "",
+        "alt": "The waves at sunrise.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255135/7E0C007A-34B9-4335-B711-2ECC4CAD7141_jy6xqv.jpg"
     },
     {
         "id":3,
         "placename": "San Antonio, TX",
-        "alt": "",
+        "alt": "Bridge in a park.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255060/IMG_3548_kggtft.jpg"
     },
     {
         "id":4,
         "placename": "Blowing Rock, NC",
-        "alt": "",
+        "alt": "A person and dog look at the sunrise.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255378/20211023_084820_p0pahi.jpg"
     },
     {
         "id":5,
         "placename": "Charlotte, NC",
-        "alt": "",
+        "alt": "Trees blossoming downtown.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255443/IMG_1383_kjzbjp.jpg"
     },
     {
         "id":6,
         "placename": "Boston, MA",
-        "alt": "",
+        "alt": "Fennway Park.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255620/511_fpriwo.jpg"
     },
     {
         "id":7,
         "placename": "Blue Ridge, GA",
-        "alt": "",
+        "alt": "A helicopter and stone memorial.",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255510/IMG_1496_ivtx1l.jpg"
     }
 ]
