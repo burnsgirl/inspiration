@@ -1,6 +1,7 @@
 import { React } from "react";
 import "./lists.css";
 import { useHistory } from "react-router-dom";
+import lists from "../../lists.json";
 
 function Lists() {
 
@@ -70,6 +71,21 @@ function Lists() {
                     </div>
 
                 </div>
+                </section>
+
+                <section id="listBody listCards" >
+                    
+                    {lists.map ((props) => {
+                        return (
+
+                    
+                    <div className="listCard">
+                        <h1>{props.type}</h1>
+                        <img src={props.image} alt={props.alt} />
+                    </div>
+                        );
+                    })}
+       
             </section>
         </div>
     )
