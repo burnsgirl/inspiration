@@ -34,17 +34,22 @@
     font-family: 'Indie Flower', cursive;
     margin: 20px;
     height: 40px;
+    width: 109px;
 }
 
 .blogCard p {
     font-family: 'Indie Flower', cursive;
     height: 70%;
-    width: 62%;
-    margin: 60px 0px 20px 0px;
+    width: 57%;
+    margin: 60px 10px 20px 0px;
 }
 
 .blogCard img {
     width: 25%;
     height: 80%;
     margin-top: 40px;
+}
+
+#placesBlog {
+    font-weight: bold;
 }

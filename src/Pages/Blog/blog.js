@@ -21,7 +21,7 @@ function Blog() {
             
             <div className="blogCard">
                 <h1>{props.date}</h1>
-                <p>{props.content}</p>
+                <p id={"placesBlog" + props.places}>{props.place}<br></br>{props.content}</p>
                 <img src={props.image} alt={props.alt} />
             </div>
                 );
