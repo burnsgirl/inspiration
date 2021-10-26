@@ -1,0 +1,50 @@
+#coverBlog {
+        height:60vh;
+        background-image: url("https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635257457/DSC_0159_uc4tte.jpg");
+        background-size:cover;
+        background-position: center;
+}
+
+#coverBlog h1 {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size:80px;
+    margin: 0px;
+    padding: 163px 0px 0px 70px;
+}
+
+#blogSection {
+        display: flex;
+        justify-content: center;
+        align-content: flex-start;
+        overflow: auto;
+}
+
+.blogCard {
+        display:flex;
+        /* align-items:center;
+        justify-content: center; */
+        height:400px;
+        width:90%;
+        margin: 20px;
+        box-shadow: 0px 0px 10px 5px grey;
+}
+
+.blogCard h1 {
+    font-family: 'Indie Flower', cursive;
+    margin: 20px;
+    height: 40px;
+}
+
+.blogCard p {
+    font-family: 'Indie Flower', cursive;
+    height: 70%;
+    width: 62%;
+    margin: 60px 0px 20px 0px;
+}
+
+.blogCard img {
+    width: 25%;
+    height: 80%;
+    margin-top: 40px;
+}
