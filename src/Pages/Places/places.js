@@ -16,8 +16,10 @@ function Places() {
             <div id="locationCards">
             {places.map ((props) => {
                 return (
-                <div className="card" id={"image" + props.id} alt={props.id} src={props.image}>
-                    
+                <div className="card" >
+                      
+                        <img className="imagePlaces" id={"image" + props.id} alt={props.id} src={props.image} />
+ 
                         <p className="nameOfPlace" id={"place" + props.id}>{props.placename}</p>
                 
                 </div>

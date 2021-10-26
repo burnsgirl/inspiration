@@ -4,48 +4,48 @@
         "id":0,
         "placename": "Williamstown, MA",
         "alt": "",
-        "image":"../Assets/Places/williamstown.jpeg"
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635254987/williamstown_qweb1x.jpg"
     },
     {
         "id":1,
         "placename": "Freeport, ME",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255270/IMG_3077_ppnstw.jpg"
     },
     {
         "id":2,
         "placename": "Destin, FL",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255135/7E0C007A-34B9-4335-B711-2ECC4CAD7141_jy6xqv.jpg"
     },
     {
         "id":3,
         "placename": "San Antonio, TX",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255060/IMG_3548_kggtft.jpg"
     },
     {
         "id":4,
         "placename": "Blowing Rock, NC",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255378/20211023_084820_p0pahi.jpg"
     },
     {
         "id":5,
         "placename": "Charlotte, NC",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255443/IMG_1383_kjzbjp.jpg"
     },
     {
         "id":6,
         "placename": "Boston, MA",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255620/511_fpriwo.jpg"
     },
     {
         "id":7,
         "placename": "Blue Ridge, GA",
         "alt": "",
-        "image":""
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635255510/IMG_1496_ivtx1l.jpg"
     }
 ]
