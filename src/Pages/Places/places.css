@@ -1,6 +1,8 @@
+
+
 #coverPlaces {
     height:60vh;
-    background-image: url("../../Assets/coverPlaces.jpeg");
+    background-image: url("../../Assets/Places/coverPlaces.jpeg");
     background-size:cover;
     background-position: center;
 }
@@ -11,4 +13,21 @@
     font-size:80px;
     margin: 0px;
     padding: 163px 0px 0px 70px;
+}
+
+#locationCards {
+    display:flex;
+    flex-direction: row;
+}
+
+.card {
+    height:400px;
+    width:400px;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+}
+
+#place {
+    color: black;
 }

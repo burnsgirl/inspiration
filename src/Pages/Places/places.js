@@ -1,20 +1,29 @@
 import { React } from "react";
 import "./places.css";
-import { useHistory } from "react-router-dom";
+// import { useHistory } from "react-router-dom";
+import places from "../../places.json";
 
 function Places() {
 
-    const history = useHistory();
+    // const history = useHistory();
 
     return (
         <div>
-            <section id="coverPlaces">
+            <div id="coverPlaces">
                 <h1>Explore These Places!</h1>
-            </section>
+            </div>
 
-            <section id="locationCards">
+            <div id="locationCards">
+            {places.map ((props) => {
+                return (
+                <div className="card" id={"image" + props.id} alt={props.id} src={props.image}>
+                    
+                        <p className="nameOfPlace" id={"place" + props.id}>{props.placename}</p>
                 
-            </section>
+                </div>
+                );
+            })}
+            </div>
         </div>
     )
 }

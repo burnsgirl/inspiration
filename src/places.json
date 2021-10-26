@@ -1,0 +1,51 @@
+
+[
+    {
+        "id":0,
+        "placename": "Williamstown, MA",
+        "alt": "",
+        "image":"./williamstown.heic"
+    },
+    {
+        "id":1,
+        "placename": "Freeport, ME",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":2,
+        "placename": "Destin, FL",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":3,
+        "placename": "San Antonio, TX",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":4,
+        "placename": "Blowing Rock, NC",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":5,
+        "placename": "Charlotte, NC",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":6,
+        "placename": "Boston, MA",
+        "alt": "",
+        "image":""
+    },
+    {
+        "id":7,
+        "placename": "Blue Ridge, GA",
+        "alt": "",
+        "image":""
+    }
+]

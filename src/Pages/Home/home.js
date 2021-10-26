@@ -1,7 +1,7 @@
 import { React } from "react";
 import "./home.css";
-import rightFoot from "../../Assets/rightFoot.png";
-import leftFoot from "../../Assets/leftFoot.png";
+import rightFoot from "../../Assets/Home/rightFoot.png";
+import leftFoot from "../../Assets/Home/leftFoot.png";
 import { useHistory } from "react-router-dom";
 import wind from "../../Assets/wind.png";
 import cloud1 from "../../Assets/cloud1.png";

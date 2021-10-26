@@ -1,6 +1,6 @@
 import { React } from "react";
 import "./header.css";
-import cloudd from "../../Assets/nav-cloud.jpeg";
+import cloudd from "../../Assets/Header/nav-cloud.jpeg";
 import { useHistory } from "react-router-dom";
 
 
