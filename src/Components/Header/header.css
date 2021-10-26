@@ -17,6 +17,7 @@ ul {
 li {
     margin: 20px;
     text-align: center;
+    cursor: pointer;
 }
 
 #images {
@@ -27,6 +28,7 @@ li {
     background-size: cover;
     background-position:center;
     margin: 15px 5px;
+
 }
 
 button {
@@ -34,5 +36,6 @@ button {
     background: transparent;
     border: none;
     height:30px;
+
 }
 

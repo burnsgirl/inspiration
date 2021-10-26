@@ -69,6 +69,7 @@
     align-items: center;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
 }
 
 #section2::before {
@@ -106,6 +107,7 @@
     padding: 10px 20px;
     font-size:20px;
     font-weight:bold;    
+    cursor: pointer;
 }
 
 #backgroundSection3 {
