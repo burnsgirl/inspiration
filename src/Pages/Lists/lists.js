@@ -37,7 +37,7 @@ function Lists() {
                         <div class="dropdown-content">
                             <a href="#">Spring/Summer</a>
                             <a href="#">Fall/Winter</a>
-                            <a href="#">Link 3</a>
+                 
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@ function Lists() {
                         <div class="dropdown-content">
                             <a href="#">Spring/Summer</a>
                             <a href="#">Fall/Winter</a>
-                            <a href="#">Link 3</a>
+                 
                         </div>
                     </div>
 
@@ -71,10 +71,8 @@ function Lists() {
                     </div>
 
                 </div>
-                </section>
-
-                <section id="listBody listCards" >
-                    
+               
+                    <div id="listCards">
                     {lists.map ((props) => {
                         return (
 
@@ -86,7 +84,7 @@ function Lists() {
                     </div>
                         );
                     })}
-       
+                </div>
             </section>
         </div>
     )
