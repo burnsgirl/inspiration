@@ -80,8 +80,9 @@ function Lists() {
 
                     
                     <div className="listCard">
-                        <h1>{props.type}</h1>
-                        <img src={props.image} alt={props.alt} />
+                        <img className="imageLists" src={props.image} alt={props.alt} />
+                        <h1 className="nameOfList">{props.type}</h1>
+                        
                     </div>
                         );
                     })}

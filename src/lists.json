@@ -2,37 +2,37 @@
     {
         "id":0,
         "type":"Hiking",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262103/hiking_if0eer.jpg",
         "alt":""
     },
     {
         "id":1,
         "type":"Beach",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262138/beach_ksoxcz.jpg",
         "alt":""
     },
     {
         "id":2,
         "type":"Mountains",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262193/mountains_gccxga.jpg",
         "alt":""
     },
     {
         "id":3,
         "type":"Camping",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262025/camping_lagxew.jpg",
         "alt":""
     },
     {
         "id":4,
         "type":"International",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261944/france_e5mito.jpg",
         "alt":""
     },
     {
         "id":5,
         "type":"Desert",
-        "image":"",
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261988/desert_sauv5h.jpg",
         "alt":""
     }
 ]
