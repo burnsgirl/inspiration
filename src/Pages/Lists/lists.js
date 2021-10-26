@@ -7,7 +7,11 @@ function Lists() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+            <section id="coverLists">
+                <h1>Packing List For Any Occasion!</h1>
+            </section>
+        </div>
     )
 }
 
