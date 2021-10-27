@@ -1,0 +1,83 @@
+#guidesLists {
+    height:60vh;
+    background-image: url("https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635264720/guidecover_rfbxwi.jpg");
+    background-size:cover;
+    background-position: center;
+}
+
+#guidesLists h1 {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size:80px;
+    margin: 0px;
+    padding: 163px 0px 0px 70px;
+}
+
+#guideCards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+    overflow: auto;
+    /* background-color:#110f10;  */
+    color:white;
+    font-family: 'Indie Flower', cursive;
+}
+
+#guideCard1 {
+    height:48vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#card11 {
+    background-color:orange;
+    height:48vh;
+    width:40vw;
+    padding:0px;
+}
+
+#card12 {
+    background-color:purple;
+    height:48vh;
+    width:60vw;
+}
+
+#guideCard2 {
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#card21 {
+    width:33vw;
+    background-color:yellow;
+}
+
+#card22 {
+    width:33vw;
+    background-color:black;
+}
+
+#card23 {
+    width:33vw;
+    background-color:blue;
+}
+
+#guideCard3 {
+    height:55vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#card31 {
+    height:55vh;
+    width:50vw;
+    background-color: green;
+}
+
+#card32 {
+    height:55vh;
+    width:50vw;
+    background-color:pink;
+}
