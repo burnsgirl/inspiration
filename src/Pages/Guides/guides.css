@@ -13,13 +13,27 @@
     padding: 163px 0px 0px 70px;
 }
 
+#headerGuides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #110f10;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    height:20vh;
+}
+
+#headerGuides h1 {
+    font-size: 40px;
+    margin: 0px;
+}
+
 #guideCards {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: flex-start;
     overflow: auto;
-    /* background-color:#110f10;  */
     color:white;
     font-family: 'Indie Flower', cursive;
 }
@@ -37,7 +51,6 @@
 }
 
 #card11 {
-    
     background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635374642/howtogetthere_j86oqs.jpg);
     height:48vh;
     width:40vw;

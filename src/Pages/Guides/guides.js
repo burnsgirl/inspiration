@@ -13,7 +13,7 @@ function Guides() {
             </section>
 
             <section id="guidesBody">
-                <div>
+                <div id="headerGuides">
                     <h1>The Place To Start If You Don't Know Where To Start!</h1>
                 </div>
 
