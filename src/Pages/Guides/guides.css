@@ -37,16 +37,18 @@
 }
 
 #card11 {
-    background-color:orange;
+    
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635374642/howtogetthere_j86oqs.jpg);
     height:48vh;
     width:40vw;
     padding:0px;
+    background-size: cover;
 }
 
 .cardp {
     position: absolute;
     font-size: 80px;
-    color: black;
+    color:white;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     margin: 0px;
@@ -55,16 +57,18 @@
 .cardpp {
     position: absolute;
     font-size: 60px;
-    color: black;
+    color:white;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     margin: 0px;
 }
 
 #card12 {
-    background-color:purple;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635374845/howtogetthere2_exqxzy.jpg);
     height:48vh;
     width:60vw;
+    background-size: cover;
+    background-position: center;
 }
 
 /* #card12p {
@@ -83,18 +87,24 @@
 }
 
 #card21 {
+    height:40vh;
     width:33vw;
-    background-color:yellow;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635375589/weather_lsbcso.jpg);
 }
 
 #card22 {
-    width:33vw;
-    background-color:black;
+    height:40vh;
+    width:34vw;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635375100/list_um9who.jpg);
 }
 
 #card23 {
+    height:40vh;
     width:33vw;
-    background-color:blue;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635375196/petfriendly_jeaykr.jpg);
 }
 
 #guideCard3 {
@@ -106,11 +116,14 @@
 #card31 {
     height:55vh;
     width:60vw;
-    background-color: green;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635375295/kidfriendly_jkkn5g.jpg);
 }
 
 #card32 {
     height:55vh;
     width:40vw;
-    background-color:pink;
+    background-size: cover;
+    background-position: bottom;
+    background-image: url(https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635375385/whattodo_grmh1b.jpg);
 }

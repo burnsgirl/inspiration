@@ -34,11 +34,11 @@ function Guides() {
                     <div id="guideCard2">
                         <div className="cardStyle">
                             <img id="card21"/>
-                            <p className="cardpp">Lists</p>
+                            <p className="cardpp">Weather</p>
                         </div>
                         <div className="cardStyle">
                             <img id="card22"/>
-                            <p className="cardpp">Weather</p>
+                            <p className="cardpp">Lists</p>
                         </div>
                         <div className="cardStyle">
                             <img id="card23"/>
@@ -49,11 +49,11 @@ function Guides() {
                     <div id="guideCard3">
                         <div className="cardStyle">
                             <img id="card31"/>
-                            <p className="cardp">What To Do</p>
+                            <p className="cardp">Kid Friendly</p>
                         </div>
                         <div className="cardStyle">
                             <img id="card32"/>
-                            <p className="cardp">Kid Friendly</p>
+                            <p className="cardp">What To Do</p>
                         </div>
                     </div>
 
