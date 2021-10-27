@@ -18,6 +18,7 @@
 
 #callToAction p {
     font-family: 'Indie Flower', cursive;
+    justify-content: center;
     color: white;
     align-self: end;
     font-size:25px;

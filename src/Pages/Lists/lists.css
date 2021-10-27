@@ -2,7 +2,7 @@
     height:60vh;
     background-image: url("https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635259958/coverlists2_pt745w.jpg");
     background-size:cover;
-    background-position: center;
+    background-position: bottom;
 }
 
 #coverLists h1 {
