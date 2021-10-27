@@ -21,31 +21,41 @@ function Guides() {
 
                     <div id="guideCard1">
                         <div className="cardStyle">
-                        <img id="card11" />
-                        <p id="card11p">Location</p>
+                            <img id="card11" />
+                            <p className="cardp">Location</p>
                         </div>
                         <div className="cardStyle">
-                        <img id="card12" />
-                        <p id="card12p">Weather</p>
+                            <img id="card12" />
+                            <p className="cardp">How To Get There</p>
                         </div>
                         
                     </div>
 
-                    {/* <div id="guideCard2">
-                        <img id="card21"/>
-                        <p>Lists</p>
-                        <img id="card22"/>
-                        <p>How To Get There</p>
-                        <img id="card23"/>
-                        <p>Pet Friendly</p>
+                    <div id="guideCard2">
+                        <div className="cardStyle">
+                            <img id="card21"/>
+                            <p className="cardpp">Lists</p>
+                        </div>
+                        <div className="cardStyle">
+                            <img id="card22"/>
+                            <p className="cardpp">Weather</p>
+                        </div>
+                        <div className="cardStyle">
+                            <img id="card23"/>
+                            <p className="cardpp">Pet Friendly</p>
+                        </div>
                     </div>
 
                     <div id="guideCard3">
-                        <img id="card31"/>
-                        <p>What To Do</p>
-                        <img id="card32"/>
-                        <p>Kid Friendly</p>
-                    </div> */}
+                        <div className="cardStyle">
+                            <img id="card31"/>
+                            <p className="cardp">What To Do</p>
+                        </div>
+                        <div className="cardStyle">
+                            <img id="card32"/>
+                            <p className="cardp">Kid Friendly</p>
+                        </div>
+                    </div>
 
                 </div>
 

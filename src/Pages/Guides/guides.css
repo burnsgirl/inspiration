@@ -37,16 +37,24 @@
 }
 
 #card11 {
-    justify-content: center;
     background-color:orange;
     height:48vh;
     width:40vw;
     padding:0px;
 }
 
-#card11p {
+.cardp {
     position: absolute;
     font-size: 80px;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.cardpp {
+    position: absolute;
+    font-size: 60px;
     color: black;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
@@ -59,14 +67,14 @@
     width:60vw;
 }
 
-#card12p {
+/* #card12p {
     position: absolute;
     color: black;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     font-size: 80px;
     margin: 0px;
-}
+} */
 
 #guideCard2 {
     height:40vh;
@@ -97,12 +105,12 @@
 
 #card31 {
     height:55vh;
-    width:50vw;
+    width:60vw;
     background-color: green;
 }
 
 #card32 {
     height:55vh;
-    width:50vw;
+    width:40vw;
     background-color:pink;
 }
