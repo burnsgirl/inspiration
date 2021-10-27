@@ -30,17 +30,42 @@
     flex-direction: row;
 }
 
+.cardStyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #card11 {
+    justify-content: center;
     background-color:orange;
     height:48vh;
     width:40vw;
     padding:0px;
 }
 
+#card11p {
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    margin: 0px;
+}
+
 #card12 {
     background-color:purple;
     height:48vh;
     width:60vw;
+}
+
+#card12p {
+    position: absolute;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: 80px;
+    margin: 0px;
 }
 
 #guideCard2 {

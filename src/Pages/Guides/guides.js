@@ -20,13 +20,18 @@ function Guides() {
                 <div id="guideCards">
 
                     <div id="guideCard1">
+                        <div className="cardStyle">
                         <img id="card11" />
-                        <p>Location</p>
+                        <p id="card11p">Location</p>
+                        </div>
+                        <div className="cardStyle">
                         <img id="card12" />
-                        <p>Weather</p>
+                        <p id="card12p">Weather</p>
+                        </div>
+                        
                     </div>
 
-                    <div id="guideCard2">
+                    {/* <div id="guideCard2">
                         <img id="card21"/>
                         <p>Lists</p>
                         <img id="card22"/>
@@ -40,7 +45,7 @@ function Guides() {
                         <p>What To Do</p>
                         <img id="card32"/>
                         <p>Kid Friendly</p>
-                    </div>
+                    </div> */}
 
                 </div>
 
