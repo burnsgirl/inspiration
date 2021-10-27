@@ -9,7 +9,7 @@ function Footer() {
 
     return (
         <div id="footer">
-            <p>© The Developer Group</p>
+            <p>© The Developer Group LLC</p>
         </div>
     )
 
