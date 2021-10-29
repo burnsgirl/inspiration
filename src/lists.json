@@ -4,41 +4,41 @@
         "type":"Hiking",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262103/hiking_if0eer.jpg",
         "alt":"Person walking on fallen tree.",
-        "list":"https://exploretravelinspire.herokuapp.com/hiking"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/hiking"
     },
     {
         "id":"beach",
         "type":"Beach",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262138/beach_ksoxcz.jpg",
         "alt":"Sunglasses in the sand.",
-        "list":"https://exploretravelinspire.herokuapp.com/beach"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/beach"
     },
     {
         "id":"mountains",
         "type":"Mountains",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262193/mountains_gccxga.jpg",
         "alt":"Mountains in the fog.",
-        "list":"https://exploretravelinspire.herokuapp.com/mountains"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/mountains"
     },
     {
         "id":"camping",
         "type":"Camping",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635262025/camping_lagxew.jpg",
         "alt":"Inside a tent looking at the woods.",
-        "list":"https://exploretravelinspire.herokuapp.com/camping"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/camping"
     },
     {
         "id":"international",
         "type":"International",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261944/france_e5mito.jpg",
         "alt":"Bridge in France.",
-        "list":"https://exploretravelinspire.herokuapp.com/international"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/international"
     },
     {
         "id":"desert",
         "type":"Desert",
         "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635261988/desert_sauv5h.jpg",
         "alt":"A tree in the barren desert.",
-        "list":"https://exploretravelinspire.herokuapp.com/desert"
+        "list":"https://tranquil-ocean-62286.herokuapp.com/desert"
     }
 ]
