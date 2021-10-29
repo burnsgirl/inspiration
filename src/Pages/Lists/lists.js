@@ -7,6 +7,30 @@ function Lists() {
 
     const history = useHistory();
 
+    const pageRoute10 = () => {
+        history.push("/beach");
+      };
+
+    const pageRoute11 = () => {
+        history.push("/camping");
+      };
+
+    const pageRoute12 = () => {
+        history.push("/desert");
+      };
+
+    const pageRoute13 = () => {
+        history.push("/hiking");
+      };
+
+    const pageRoute14 = () => {
+        history.push("/international");
+      };
+
+    const pageRoute15 = () => {
+        history.push("/mountains");
+      };
+
     return (
         <div>
             <section id="coverLists">
