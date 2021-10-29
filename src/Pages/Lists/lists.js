@@ -101,9 +101,12 @@ function Lists() {
                         return (
 
                     
-                    <div className="listCard" id={props.id}>
-                        <img className="imageLists" src={props.image} alt={props.alt} />
-                        <h1 className="nameOfList">{props.type}</h1>
+                    <div className="listCard" id={props.id} >
+                        
+                            <img className="imageLists" src={props.image} alt={props.alt} />
+                            {/* <a href={props.deployed} target='_blank'> */}
+                            <h1 className="nameOfList">{props.type}</h1>
+                        {/* </a> */}
                         
                     </div>
                         );

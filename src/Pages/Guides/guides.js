@@ -38,7 +38,7 @@ function Guides() {
                         </div>
                         <div className="cardStyle" href="#">
                             <img id="card22"/>
-                            <p className="cardpp" href="#">Lists</p>
+                            <p className="cardpp" href="https://exploretravelinspire.herokuapp.com/lists">Lists</p>
                         </div>
                         <div className="cardStyle" href="#">
                             <img id="card23"/>
