@@ -7,7 +7,11 @@ function Mountains() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+             <section id="guidesLists">
+                <h1>Mountains List</h1>
+            </section>
+        </div>
     );
 
 };

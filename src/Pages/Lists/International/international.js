@@ -7,7 +7,11 @@ function International() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+             <section id="guidesLists">
+                <h1>International List</h1>
+            </section>
+        </div>
     );
 
 };

@@ -1,0 +1,14 @@
+#hikingLists {
+    height:60vh;
+    background-image: url("");
+    background-size:cover;
+    background-position: center;
+}
+
+#hikingLists h1 {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size:80px;
+    margin: 0px;
+    padding: 163px 0px 0px 70px;
+}

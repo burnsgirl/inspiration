@@ -7,7 +7,11 @@ function Desert() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+             <section id="guidesLists">
+                <h1>Desert List</h1>
+            </section>
+        </div>
     );
 
 };

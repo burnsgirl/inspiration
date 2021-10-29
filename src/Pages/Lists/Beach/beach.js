@@ -7,7 +7,11 @@ function Beach() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+             <section id="guidesLists">
+                <h1>Beach List</h1>
+            </section>
+        </div>
     );
 
 };

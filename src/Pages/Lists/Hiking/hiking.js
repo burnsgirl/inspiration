@@ -7,7 +7,11 @@ function Hiking() {
     const history = useHistory();
 
     return (
-        <div></div>
+        <div>
+            <section id="guidesLists">
+                <h1>Hiking List</h1>
+            </section>
+        </div>
     );
 
 };
