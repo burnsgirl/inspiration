@@ -32,24 +32,24 @@ function International() {
                             <label for="boots" className="inputs">Hiking Boots</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="water" value="Water" />
-                            <label for="water" className="inputs">Water</label>
+                            <input type="checkbox" name="Passport" value="Passport" />
+                            <label for="Passport" className="inputs">Passport</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Food" value="Food" />
                             <label for="Food" className="inputs">Food</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="FirstAidKit" value="FirstAidKit" />
-                            <label for="FirstAidKit" className="inputs">First Aid Kit</label>
+                            <input type="checkbox" name="Medications" value="Medications" />
+                            <label for="Medications" className="inputs">Medications</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Map" value="Map" />
                             <label for="Map" className="inputs">Map</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Compass" value="Compass" />
-                            <label for="Compass" className="inputs">Compass</label>
+                            <input type="checkbox" name="RainJacket" value="RainJacket" />
+                            <label for="RainJacket" className="inputs">Rain Jacket</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Sunscreen" value="Sunscreen" />
@@ -64,24 +64,24 @@ function International() {
                             <label for="HandSanitizer" className="inputs">Hand Sanitizer</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="BugSpray" value="BugSpray" />
-                            <label for="BugSpray" className="inputs">Bug Spray</label>
+                            <input type="checkbox" name="Payment" value="Payment" />
+                            <label for="Payment" className="inputs">Multiple Forms of Payment</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Knife" value="Knife" />
-                            <label for="Knife" className="inputs">Knife</label>
+                            <input type="checkbox" name="InsuranceCards" value="InsuranceCards" />
+                            <label for="InsuranceCards" className="inputs">Insurance Cards</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="HeadLamp" value="HeadLamp" />
-                            <label for="HeadLamp" className="inputs">Head Lamp</label>
+                            <input type="checkbox" name="Adaptor" value="Adaptor" />
+                            <label for="Adaptor" className="inputs">Universal Travel Adaptor</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Lighter" value="Lighter" />
-                            <label for="Lighter" className="inputs">Lighter</label>
+                            <input type="checkbox" name="ReusableWaterBottle" value="ReusableWaterBottle" />
+                            <label for="ReusableWaterBottle" className="inputs">Reusable Water Bottle</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Jacket" value="Jacket" />
-                            <label for="Jacket" className="inputs">Jacket</label>
+                            <input type="checkbox" name="LuggageLocks" value="LuggageLocks" />
+                            <label for="LuggageLocks" className="inputs">Luggage Locks</label>
                         </div>
             </section>
             
