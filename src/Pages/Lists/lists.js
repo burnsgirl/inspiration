@@ -105,7 +105,7 @@ function Lists() {
                         
                             <img className="imageLists" src={props.image} alt={props.alt} />
                            
-                            <a href={props.list} target='_blank' className="nameOfList">{props.type}</a>
+                            <a href={props.list} className="nameOfList">{props.type}</a>
 
                         
                     </div>
