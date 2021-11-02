@@ -8,7 +8,7 @@ function Hiking() {
 
     return (
         <div>
-            <section id="guidesLists">
+            <section id="hikingLists">
                 <h1>Hiking List</h1>
             </section>
 
