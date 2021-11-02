@@ -24,12 +24,12 @@ function Mountains() {
             <section className="grid-container">
                     
                         <div>
-                            <input type="checkbox" name="backpack" value="Backpack" />
-                            <label for="backpack" className="inputs">Backpack</label>
+                            <input type="checkbox" name="raincoat" value="raincoat" />
+                            <label for="raincoat" className="inputs">Raincoat</label>
                         </div>
                         <div>
-                            <input type="checkbox"  name="boots" value="Boots" />
-                            <label for="boots" className="inputs">Hiking Boots</label>
+                            <input type="checkbox"  name="FleeceJacket" value="FleeceJacket" />
+                            <label for="FleeceJacket" className="inputs">Fleece Jacket</label>
                         </div>
                         <div>
                             <input type="checkbox" name="water" value="Water" />
@@ -72,16 +72,16 @@ function Mountains() {
                             <label for="Knife" className="inputs">Knife</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="HeadLamp" value="HeadLamp" />
-                            <label for="HeadLamp" className="inputs">Head Lamp</label>
+                            <input type="checkbox" name="BearSpray" value="BearSpray" />
+                            <label for="BearSpray" className="inputs">Bear Spray</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Lighter" value="Lighter" />
                             <label for="Lighter" className="inputs">Lighter</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Jacket" value="Jacket" />
-                            <label for="Jacket" className="inputs">Jacket</label>
+                            <input type="checkbox" name="Boots" value="Boots" />
+                            <label for="Boots" className="inputs">Boots</label>
                         </div>
             </section>
             

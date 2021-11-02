@@ -28,8 +28,8 @@ function Desert() {
                             <label for="backpack" className="inputs">Backpack</label>
                         </div>
                         <div>
-                            <input type="checkbox"  name="boots" value="Boots" />
-                            <label for="boots" className="inputs">Hiking Boots</label>
+                            <input type="checkbox"  name="Comb" value="Comb" />
+                            <label for="Comb" className="inputs">Comb</label>
                         </div>
                         <div>
                             <input type="checkbox" name="water" value="Water" />
@@ -64,24 +64,24 @@ function Desert() {
                             <label for="HandSanitizer" className="inputs">Hand Sanitizer</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="BugSpray" value="BugSpray" />
-                            <label for="BugSpray" className="inputs">Bug Spray</label>
+                            <input type="checkbox" name="Powder" value="Powder" />
+                            <label for="Powder" className="inputs">Sodium Replacement Powder</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Knife" value="Knife" />
                             <label for="Knife" className="inputs">Knife</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="HeadLamp" value="HeadLamp" />
-                            <label for="HeadLamp" className="inputs">Head Lamp</label>
-                        </div>
-                        <div>
-                            <input type="checkbox" name="Lighter" value="Lighter" />
-                            <label for="Lighter" className="inputs">Lighter</label>
+                            <input type="checkbox" name="Mirror" value="Mirror" />
+                            <label for="Mirror" className="inputs">Mirror</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Jacket" value="Jacket" />
                             <label for="Jacket" className="inputs">Jacket</label>
+                        </div>
+                        <div>
+                            <input type="checkbox" name="Whistle" value="Whistle" />
+                            <label for="Whistle" className="inputs">Whistle</label>
                         </div>
             </section>
             
