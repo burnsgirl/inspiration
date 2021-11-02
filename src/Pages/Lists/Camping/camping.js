@@ -24,12 +24,12 @@ function Camping() {
             <section className="grid-container">
                     
                         <div>
-                            <input type="checkbox" name="backpack" value="Backpack" />
-                            <label for="backpack" className="inputs">Backpack</label>
+                            <input type="checkbox" name="Tent" value="Tent" />
+                            <label for="Tent" className="inputs">Tent</label>
                         </div>
                         <div>
-                            <input type="checkbox"  name="boots" value="Boots" />
-                            <label for="boots" className="inputs">Hiking Boots</label>
+                            <input type="checkbox"  name="SleepingBags" value="SleepingBags" />
+                            <label for="SleepingBags" className="inputs">Sleeping Bags</label>
                         </div>
                         <div>
                             <input type="checkbox" name="water" value="Water" />
@@ -44,20 +44,20 @@ function Camping() {
                             <label for="FirstAidKit" className="inputs">First Aid Kit</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Map" value="Map" />
-                            <label for="Map" className="inputs">Map</label>
+                            <input type="checkbox" name="FireWood" value="FireWood" />
+                            <label for="FireWood" className="inputs">Fire Wood</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Compass" value="Compass" />
-                            <label for="Compass" className="inputs">Compass</label>
+                            <input type="checkbox" name="ClothesLine" value="ClothesLine" />
+                            <label for="ClothesLine" className="inputs">Clothes Line</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Sunscreen" value="Sunscreen" />
-                            <label for="Sunscreen" className="inputs">Sunscreen</label>
+                            <input type="checkbox" name="Trash Bags" value="Trash Bags" />
+                            <label for="Trash Bags" className="inputs">Trash Bags</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Hat" value="Hat" />
-                            <label for="Hat" className="inputs">Hat</label>
+                            <input type="checkbox" name="ToiletPaper" value="ToiletPaper" />
+                            <label for="ToiletPaper" className="inputs">Toilet Paper</label>
                         </div>
                         <div>
                             <input type="checkbox" name="HandSanitizer" value="HandSanitizer" />
