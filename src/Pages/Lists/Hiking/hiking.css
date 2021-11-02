@@ -1,3 +1,7 @@
+#root {
+    background-color: #110f10;
+}
+
 #hikingLists {
     height:60vh;
     background-image: url("https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635878429/joanna-nix-walkup-Osq7UAVxIOI-unsplash_x7tdvy.jpg");
@@ -11,4 +15,13 @@
     font-size:80px;
     margin: 0px;
     padding: 163px 0px 0px 70px;
+}
+
+.hikingBody {
+    display: row;
+    justify-content: center;
+    align-items: center;
+    margin:40px;
+    color: white;
+    font-family: 'Indie Flower', cursive;
 }
