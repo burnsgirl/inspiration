@@ -24,12 +24,12 @@ function Beach() {
             <section className="grid-container">
                     
                         <div>
-                            <input type="checkbox" name="backpack" value="Backpack" />
-                            <label for="backpack" className="inputs">Backpack</label>
+                            <input type="checkbox" name="sunglasses" value="sunglasses" />
+                            <label for="sunglasses" className="inputs">Sunglasses</label>
                         </div>
                         <div>
-                            <input type="checkbox"  name="boots" value="Boots" />
-                            <label for="boots" className="inputs">Hiking Boots</label>
+                            <input type="checkbox"  name="Sandals" value="Sandals" />
+                            <label for="Sandals" className="inputs">Sandals</label>
                         </div>
                         <div>
                             <input type="checkbox" name="water" value="Water" />
@@ -44,12 +44,12 @@ function Beach() {
                             <label for="FirstAidKit" className="inputs">First Aid Kit</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Map" value="Map" />
-                            <label for="Map" className="inputs">Map</label>
+                            <input type="checkbox" name="Bathing Suit" value="Bathing Suit" />
+                            <label for="Bathing Suit" className="inputs">Bathing Suit</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Compass" value="Compass" />
-                            <label for="Compass" className="inputs">Compass</label>
+                            <input type="checkbox" name="Cover-up" value="Cover-up" />
+                            <label for="Cover-up" className="inputs">Cover-up</label>
                         </div>
                         <div>
                             <input type="checkbox" name="Sunscreen" value="Sunscreen" />
@@ -64,24 +64,24 @@ function Beach() {
                             <label for="HandSanitizer" className="inputs">Hand Sanitizer</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="BugSpray" value="BugSpray" />
-                            <label for="BugSpray" className="inputs">Bug Spray</label>
+                            <input type="checkbox" name="BeachGames" value="BeachGames" />
+                            <label for="BeachGames" className="inputs">Beach Games</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Knife" value="Knife" />
-                            <label for="Knife" className="inputs">Knife</label>
+                            <input type="checkbox" name="BeachTowel" value="BeachTowel" />
+                            <label for="BeachTowel" className="inputs">Beach Towel</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="HeadLamp" value="HeadLamp" />
-                            <label for="HeadLamp" className="inputs">Head Lamp</label>
+                            <input type="checkbox" name="Floats" value="Floats" />
+                            <label for="Floats" className="inputs">Floats</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Lighter" value="Lighter" />
-                            <label for="Lighter" className="inputs">Lighter</label>
+                            <input type="checkbox" name="Cooler" value="Cooler" />
+                            <label for="Cooler" className="inputs">Cooler</label>
                         </div>
                         <div>
-                            <input type="checkbox" name="Jacket" value="Jacket" />
-                            <label for="Jacket" className="inputs">Jacket</label>
+                            <input type="checkbox" name="Umbrella" value="Umbrella" />
+                            <label for="Umbrella" className="inputs">Umbrella</label>
                         </div>
             </section>
         </div>
