@@ -87,7 +87,7 @@ function Hiking() {
                   
                 </section>
 
-                <section className="listBody" id="hikingSpring tips">
+                <section className="listBody" id="spring tips">
                     <h1>For Spring And Summer:</h1>
                 </section>
 
@@ -106,7 +106,7 @@ function Hiking() {
                     </div>
                 </section>
 
-                <section className="listBody" id="tips hikingFall">
+                <section className="listBody" id="tips fall">
                     <h1>For Fall And Winter:</h1>
                 </section>
 
