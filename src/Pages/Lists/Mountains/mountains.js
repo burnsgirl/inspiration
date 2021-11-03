@@ -18,7 +18,7 @@ function Mountains() {
             </section>
 
             <section className="listBody" id="tips">
-                    <h1>Always Bring:</h1>
+                    <h1>Always Bring :</h1>
             </section>
 
             <section className="grid-container">
