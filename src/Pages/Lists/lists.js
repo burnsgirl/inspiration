@@ -77,20 +77,16 @@ function Lists() {
                     <div class="dropdown">
                         <a class="dropbtn" href="#international">International</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring</a>
-                            <a href="#">Summer</a>
-                            <a href="#">Fall</a>
-                            <a href="#">Winter</a>
+                            <a href="#">Spring/Summer</a>
+                            <a href="#">Fall/Winter</a>
                         </div>
                     </div>
 
                     <div class="dropdown">
                         <a class="dropbtn" href="#desert">Desert</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring</a>
-                            <a href="#">Summer</a>
-                            <a href="#">Fall</a>
-                            <a href="#">Winter</a>
+                            <a href="#">Spring/Summer</a>
+                            <a href="#">Fall/Winter</a>
                         </div>
                     </div>
 
