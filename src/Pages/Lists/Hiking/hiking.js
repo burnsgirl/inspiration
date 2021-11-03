@@ -87,7 +87,7 @@ function Hiking() {
                   
                 </section>
 
-                <section className="listBody" id="tips hikingSpring">
+                <section className="listBody" id="hikingSpring tips">
                     <h1>For Spring And Summer:</h1>
                 </section>
 
