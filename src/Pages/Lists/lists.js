@@ -51,16 +51,16 @@ function Lists() {
                     <div class="dropdown">
                         <a class="dropbtn" href="#beach">Beach</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/beach#spring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/beach#fall">Fall/Winter</a>
                         </div>
                     </div>
 
                     <div class="dropdown">
                         <a class="dropbtn" href="#mountains">Mountains</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/mountains#spring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/mountains#fall">Fall/Winter</a>
                  
                         </div>
                     </div>
@@ -68,8 +68,8 @@ function Lists() {
                     <div class="dropdown">
                         <a class="dropbtn" href="#camping">Camping</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/camping#spring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/camping#fall">Fall/Winter</a>
                  
                         </div>
                     </div>
@@ -77,16 +77,16 @@ function Lists() {
                     <div class="dropdown">
                         <a class="dropbtn" href="#international">International</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/international#spring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/international#fall">Fall/Winter</a>
                         </div>
                     </div>
 
                     <div class="dropdown">
                         <a class="dropbtn" href="#desert">Desert</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/desert#spring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/desert#fall">Fall/Winter</a>
                         </div>
                     </div>
 

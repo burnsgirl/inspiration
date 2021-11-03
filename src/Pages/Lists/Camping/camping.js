@@ -85,7 +85,7 @@ function Camping() {
                         </div>
             </section>
 
-            <section className="listBody" id="tips hikingSpring">
+            <section className="listBody tips" id="spring">
                     <h1>For Spring And Summer:</h1>
                 </section>
 
@@ -104,7 +104,7 @@ function Camping() {
                     </div>
                 </section>
 
-                <section className="listBody" id="tips hikingFall">
+                <section className="listBody tips" id="fall">
                     <h1>For Fall And Winter:</h1>
                 </section>
 
