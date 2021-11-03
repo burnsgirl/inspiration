@@ -93,16 +93,16 @@ function Hiking() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="ExtraWater" value="ExtraWater" />
+                        <label for="ExtraWater" className="inputs">Extra Water</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="AloeVera" value="AloeVera" />
+                        <label for="AloeVera" className="inputs">Aloe Vera</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="WaterFilter" value="WaterFilter" />
+                        <label for="WaterFilter" className="inputs">Water Filter</label>
                     </div>
                 </section>
 
@@ -112,16 +112,28 @@ function Hiking() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="ExtraClothes" value="ExtraClothes" />
+                        <label for="ExtraClothes" className="inputs">Extra Clothes</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="HandWarmers" value="HandWarmers" />
+                        <label for="HandWarmers" className="inputs">Hand Warmers</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="Buddy" value="Buddy" />
+                        <label for="Buddy" className="inputs">Buddy</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="WinterBoots" value="WinterBoots" />
+                        <label for="WinterBoots" className="inputs">Winter Boots</label>
+                    </div>
+                    <div>
+                        <input type="checkbox"  name="Gloves" value="Gloves" />
+                        <label for="Gloves" className="inputs">Gloves</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="Scarf" value="Scarf" />
+                        <label for="Scarf" className="inputs">Scarf</label>
                     </div>
                 </section>
             
