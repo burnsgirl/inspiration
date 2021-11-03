@@ -86,6 +86,22 @@ function Hiking() {
                         </div>
                   
                 </section>
+
+                <section className="listBody" id="tips hikingSpring">
+                    <h1>For Spring And Summer:</h1>
+                </section>
+
+                <section  className="spring">
+
+                </section>
+
+                <section className="listBody" id="tips hikingFall">
+                    <h1>For Fall And Winter:</h1>
+                </section>
+
+                <section className="Fall">
+
+                </section>
             
 
         </div>

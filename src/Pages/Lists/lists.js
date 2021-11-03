@@ -43,8 +43,8 @@ function Lists() {
                     <div class="dropdown">
                         <a class="dropbtn" href="#hiking">Hiking</a>
                         <div class="dropdown-content">
-                            <a href="#">Spring/Summer</a>
-                            <a href="#">Fall/Winter</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/hiking#hikingSpring">Spring/Summer</a>
+                            <a href="https://tranquil-ocean-62286.herokuapp.com/hiking#hikingFall">Fall/Winter</a>
                         </div>
                     </div>
 
