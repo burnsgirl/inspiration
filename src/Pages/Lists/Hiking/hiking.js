@@ -91,16 +91,38 @@ function Hiking() {
                     <h1>For Spring And Summer:</h1>
                 </section>
 
-                <section  className="spring">
-
+                <section  className="spring grid-container">
+                    <div>
+                        <input type="checkbox" name="backpack" value="Backpack" />
+                        <label for="backpack" className="inputs">Backpack</label>
+                    </div>
+                    <div>
+                        <input type="checkbox"  name="boots" value="Boots" />
+                        <label for="boots" className="inputs">Hiking Boots</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="water" value="Water" />
+                        <label for="water" className="inputs">Water</label>
+                    </div>
                 </section>
 
                 <section className="listBody" id="tips hikingFall">
                     <h1>For Fall And Winter:</h1>
                 </section>
 
-                <section className="Fall">
-
+                <section className="fall grid-container">
+                    <div>
+                        <input type="checkbox" name="backpack" value="Backpack" />
+                        <label for="backpack" className="inputs">Backpack</label>
+                    </div>
+                    <div>
+                        <input type="checkbox"  name="boots" value="Boots" />
+                        <label for="boots" className="inputs">Hiking Boots</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="water" value="Water" />
+                        <label for="water" className="inputs">Water</label>
+                    </div>
                 </section>
             
 
