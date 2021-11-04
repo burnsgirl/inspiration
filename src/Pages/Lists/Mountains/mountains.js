@@ -91,17 +91,14 @@ function Mountains() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="SolarCharger" value="SolarCharger" />
+                        <label for="SolarCharger" className="inputs">Solar Charger</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="poles" value="poles" />
+                        <label for="poles" className="inputs">Trekking Poles</label>
                     </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
-                    </div>
+     
                 </section>
 
                 <section className="listBody tips" id="fall">
@@ -110,16 +107,16 @@ function Mountains() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="PlayingCards" value="PlayingCards" />
+                        <label for="PlayingCards" className="inputs">Playing Cards</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="FireWood" value="FireWood" />
+                        <label for="FireWood" className="inputs">Fire Wood</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="Notebook" value="Notebook" />
+                        <label for="Notebook" className="inputs">Notebook</label>
                     </div>
                 </section>
             
