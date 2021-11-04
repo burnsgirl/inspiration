@@ -91,16 +91,16 @@ function Camping() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="BearSpray" value="BearSpray" />
+                        <label for="BearSpray" className="inputs">Bear Spray</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="SolarCharger" value="SolarCharger" />
+                        <label for="SolarCharger" className="inputs">Solar Charger</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="Pancho" value="Pancho" />
+                        <label for="Pancho" className="inputs">Pancho</label>
                     </div>
                 </section>
 
@@ -110,16 +110,20 @@ function Camping() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="HeavyCoat" value="HeavyCoat" />
+                        <label for="HeavyCoat" className="inputs">Heavy Coat</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="ExtraBlankets" value="ExtraBlankets" />
+                        <label for="ExtraBlankets" className="inputs">Extra Blankets</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="Generator" value="Generator" />
+                        <label for="Generator" className="inputs">Generator</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="Heater" value="Heater" />
+                        <label for="Heater" className="inputs">Heater</label>
                     </div>
                 </section>
                 
