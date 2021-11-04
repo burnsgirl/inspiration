@@ -91,16 +91,12 @@ function Desert() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="SolarCharger" value="SolarCharger" />
+                        <label for="SolarCharger" className="inputs">Solar Charger</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
-                    </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="Trekking Poles" value="Trekking Poles" />
+                        <label for="Trekking Poles" className="inputs">Trekking Poles</label>
                     </div>
                 </section>
 
@@ -110,17 +106,10 @@ function Desert() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="ExtraBlankets" value="ExtraBlankets" />
+                        <label for="ExtraBlankets" className="inputs">Extra Blankets</label>
                     </div>
-                    <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
-                    </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
-                    </div>
+        
                 </section>
             
         </div>
