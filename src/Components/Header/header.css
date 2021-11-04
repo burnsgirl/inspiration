@@ -1,5 +1,32 @@
 #header {
-    height:0px;
+    height:100px;
+    position:absolute;
+    width:100%;
+    margin-top:20px;
+   
+}
+
+#row {
+    width:100%;
+    height:100px;
+    /* background-color: #110f10;
+    background-image:linear-gradient(to top left, #110f10, none);
+    opacity: .5; */
+    position: absolute;
+    /*TO RIGHT*/
+/* background: -moz-linear-gradient(left, rgba(17,15,16,1) 0%, rgba(17,15,16,0) 62%);
+background: -webkit-linear-gradient(left, rgba(17,15,16,1) 0%,rgba(17,15,16,0) 62%);
+background: linear-gradient(to right, rgba(17,15,16,1) 0%,rgba(17,15,16,0) 62%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#110f10', endColorstr='#00110f10',GradientType=1 );  */
+
+/* TO LEFT*/
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,110f10+100&0+37,1+100 */
+background: -moz-linear-gradient(left,  rgba(30,87,153,0) 0%, rgba(25,60,102,0) 37%, rgba(17,15,16,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(30,87,153,0) 0%,rgba(25,60,102,0) 37%,rgba(17,15,16,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(30,87,153,0) 0%,rgba(25,60,102,0) 37%,rgba(17,15,16,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#110f10',GradientType=1 ); /* IE6-9 */
+
+
 }
 
 ul {
@@ -12,12 +39,15 @@ ul {
     justify-content: end;
     font-family: 'Indie Flower', cursive;
     font-weight:bold;
+    position:absolute;
+
 }
 
 li {
     margin: 20px;
     text-align: center;
     cursor: pointer;
+    
 }
 
 #images {
@@ -28,7 +58,6 @@ li {
     background-size: cover;
     background-position:center;
     margin: 15px 5px;
-
 }
 
 button {

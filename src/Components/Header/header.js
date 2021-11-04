@@ -29,6 +29,7 @@ function Header() {
 
     return (
         <div id="header">
+            <div id="row"></div>
             <ul>
                 <div id="images" onClick={pageRoute1}>
                     <li>Home</li>
@@ -46,8 +47,13 @@ function Header() {
                     <li>Guides</li>
                 </div>
 
+
+                
                 {/* <img className="nav-cloud" src={cloudd} /> */}
             </ul>
+
+            
+            
         </div>
     )
 
