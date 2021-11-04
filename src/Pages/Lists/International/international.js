@@ -91,16 +91,16 @@ function International() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="Umbrella" value="Umbrella" />
+                        <label for="Umbrella" className="inputs">Umbrella</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <input type="checkbox"  name="CheckWeather" value="CheckWeather" />
+                        <label for="CheckWeather" className="inputs">Check Weather</label>
                     </div>
                     <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox" name="WalkingShoes" value="WalkingShoes" />
+                        <label for="WalkingShoes" className="inputs">Walking Shoes</label>
                     </div>
                 </section>
 
@@ -110,17 +110,14 @@ function International() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="CheckWeather" value="CheckWeather" />
+                        <label for="CheckWeather" className="inputs">Check Weather</label>
                     </div>
                     <div>
                         <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
+                        <label for="boots" className="inputs">WalkingBoots</label>
                     </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
-                    </div>
+                    
                 </section>
             
         </div>
