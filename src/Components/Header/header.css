@@ -39,8 +39,7 @@ ul {
     justify-content: end;
     font-family: 'Indie Flower', cursive;
     font-weight:bold;
-    position:absolute;
-
+    right: 5%;
 }
 
 li {
