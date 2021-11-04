@@ -91,16 +91,12 @@ function Beach() {
 
                 <section  className="spring grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="AloeVera" value="AloeVera" />
+                        <label for="AloeVera" className="inputs">Aloe Vera</label>
                     </div>
                     <div>
-                        <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
-                    </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <input type="checkbox"  name="DogBowl" value="DogBowl" />
+                        <label for="DogBowl" className="inputs">Dog Bowl</label>
                     </div>
                 </section>
 
@@ -110,16 +106,12 @@ function Beach() {
 
                 <section className="fall grid-container">
                     <div>
-                        <input type="checkbox" name="backpack" value="Backpack" />
-                        <label for="backpack" className="inputs">Backpack</label>
+                        <input type="checkbox" name="Jacket" value="Jacket" />
+                        <label for="Jacket" className="inputs">Jacket</label>
                     </div>
                     <div>
                         <input type="checkbox"  name="boots" value="Boots" />
-                        <label for="boots" className="inputs">Hiking Boots</label>
-                    </div>
-                    <div>
-                        <input type="checkbox" name="water" value="Water" />
-                        <label for="water" className="inputs">Water</label>
+                        <label for="boots" className="inputs">Boots</label>
                     </div>
                 </section>
                 
