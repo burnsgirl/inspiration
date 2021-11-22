@@ -13,6 +13,7 @@ import Desert from "./Pages/Lists/Desert/desert";
 import Hiking from "./Pages/Lists/Hiking/hiking";
 import International from "./Pages/Lists/International/international";
 import Mountains from "./Pages/Lists/Mountains/mountains";
+import Williamstown from './Pages/Places/williamstown/williamstown';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
       <Route exact path="/hiking" component={Hiking} />
       <Route exact path="/international" component={International} />
       <Route exact path="/mountains" component={Mountains} />
+      <Route exact path="/williamstown" component={Williamstown} />
 
       </Switch>
       <Footer />

@@ -16,13 +16,13 @@ function Places() {
             <div id="locationCards">
             {places.map ((props) => {
                 return (
-                <div className="card" href={props.href}>
+                <a className="card" href={props.href}>
                       
                         <img className="imagePlaces" id={"image" + props.id} alt={props.id} src={props.image} />
  
                         <p className="nameOfPlace" id={"place" + props.id}>{props.placename}</p>
                 
-                </div>
+                </a>
                 );
             })}
             </div>

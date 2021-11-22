@@ -4,7 +4,8 @@
         "id":0,
         "placename": "Williamstown, MA",
         "alt": "A foggy wooded road.",
-        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635256213/IMG_3161_db2dyg.jpg"
+        "image":"https://res.cloudinary.com/dp6ywbhvz/image/upload/v1635256213/IMG_3161_db2dyg.jpg",
+        "href":"https://tranquil-ocean-62286.herokuapp.com/williamstown"
     },
     {
         "id":1,
