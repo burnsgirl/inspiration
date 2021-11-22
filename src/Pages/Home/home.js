@@ -40,7 +40,7 @@ function Home() {
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
                         <img className="printL prints" src={rightFoot} alt="rightFoot"/>
                         <img className="printR prints" src={leftFoot} alt="leftFoot"/>
-                        <img className="printL prints" src={rightFoot} alt="rightFoot"/>
+                        {/* <img className="printL prints" src={rightFoot} alt="rightFoot"/> */}
                     </div>
                 </section>
 
