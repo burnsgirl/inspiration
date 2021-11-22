@@ -9,7 +9,7 @@ function Footer() {
 
     return (
         <div id="footer">
-            <p>© The Developer Group LLC</p>
+            <a id="dev" href="https://www.developergroup.dev/" target="_blank">© The Developer Group LLC</a>
         </div>
     )
 
