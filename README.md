@@ -2,7 +2,7 @@
 
 ![Github License](https://img.shields.io/badge/license-none-blue.svg)
 
-[Deployed]   |    [Repo](https://github.com/burnsgirl/inspiration/)
+[Deployed](https://tranquil-ocean-62286.herokuapp.com/)   |    [Repo](https://github.com/burnsgirl/inspiration/)
 
 
 ## Description
